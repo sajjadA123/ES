@@ -29,8 +29,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Eydi.Common\ES.Common.csproj" />
-    <ProjectReference Include="..\Eydi.Service\ES.Service.csproj" />
+    <ProjectReference Include="..\ES.Common\ES.Common.csproj" />
+    <ProjectReference Include="..\ES.Service\ES.Service.csproj" />
   </ItemGroup>
 
   <ItemGroup>

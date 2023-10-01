@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Eydi.Core\ES.Core.csproj" />
+    <ProjectReference Include="..\ES.Core\ES.Core.csproj" />
   </ItemGroup>
 
 </Project>
